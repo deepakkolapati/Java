@@ -1,8 +1,6 @@
 package com.deepak.interfaces;
 
-public interface Engine {
-
+public interface Media {
     void start();
     void stop();
-    void accelerate();
 }

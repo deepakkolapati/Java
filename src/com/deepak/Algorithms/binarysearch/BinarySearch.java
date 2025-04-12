@@ -1,6 +1,6 @@
-package com.deepak.Algorithms.search;
+package com.deepak.Algorithms.binarysearch;
 
-public class Main {
+public class BinarySearch {
 
     public static int binarySearch(int[] arr, int target){
         int length = arr.length;
@@ -22,6 +22,13 @@ public class Main {
 
         return -1;
     }
+
+
+    public static int binarySearchRecursive(int[] arr,int target, int start, int end ){
+        return -1;
+    }
+
+
 
     public static void main(String[] args) {
         int[] arr = {2,4,6,7,9,10,13,17,84,99,101,234,314,360,432,544,545,600,728};

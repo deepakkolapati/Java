@@ -1,4 +1,4 @@
-package com.deepak.algorithms.search;
+package com.deepak.Algorithms.search;
 
 public class Main {
 

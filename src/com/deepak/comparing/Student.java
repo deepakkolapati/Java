@@ -1,4 +1,4 @@
-package com.deepak.generics.comparing;
+package com.deepak.comparing;
 
 import java.util.Arrays;
 
